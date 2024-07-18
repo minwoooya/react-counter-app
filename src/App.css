@@ -1,0 +1,19 @@
+.app section {
+  background-color: rgb(234, 234, 234);
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.app > h1 {
+  text-align: center;
+}
+
+.app {
+  margin: 0 auto;
+  width: 400px;
+}
+
+body {
+  padding: 30px;
+}
